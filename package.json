@@ -1,0 +1,23 @@
+{
+  "name": "uk-local-police-stringer",
+  "version": "1.0.0",
+  "description": "UK local police stringer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oncletom/uk-local-police-stringer.git"
+  },
+  "author": "",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/oncletom/uk-local-police-stringer/issues"
+  },
+  "homepage": "https://github.com/oncletom/uk-local-police-stringer",
+  "dependencies": {
+    "lodash.difference": "^2.4.1",
+    "synchronize": "^0.9.8"
+  }
+}
